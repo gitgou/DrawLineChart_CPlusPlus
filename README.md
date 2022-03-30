@@ -1,5 +1,5 @@
 Note:
-	本案例是利用 c++ 调用 python 函数代码 matplotlib 库绘制折线图.
+	C++ 调用 python 函数代码案例: 使用 python matplotlib 库绘制折线图。
 
 #依赖: 
 	python -m pip install  matplotlib
